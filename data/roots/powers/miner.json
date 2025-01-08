@@ -1,0 +1,9 @@
+{
+    "name": "Natural Miner",
+    "description": "You mine 20% faster than other.",
+    "type": "origins:modify_break_speed",
+    "modifier": {
+        "operation": "multiply_base",
+        "value": 0.2
+    }
+}

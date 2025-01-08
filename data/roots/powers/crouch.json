@@ -1,0 +1,20 @@
+{
+    "name": "Silent Walker",
+    "description": "You crouch as fast as you walk.",
+    "type": "origins:multiple",
+    "attribute": {
+        "condition": {
+            "type": "origins:sneaking"
+        },
+        "type": "origins:conditioned_attribute",
+        "modifiers": [
+            {
+                "attribute": "minecraft:generic.movement_speed",
+                "operation": "multiply_total",
+                "value": 1
+            }
+        ],
+        "tick_rate": 20,
+        "update_health": true
+    }
+}

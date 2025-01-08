@@ -1,0 +1,11 @@
+{
+    "name": "Speed",
+    "description": "You move faster than the others.",
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "minecraft:generic.movement_speed",
+        "operation": "multiply_total",
+        "value": 0.2
+    },
+    "update_health": true
+}

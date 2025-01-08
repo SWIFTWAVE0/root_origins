@@ -1,0 +1,13 @@
+{
+    "type": "origins:multiple",
+    "fortune": {
+        "type": "apugli:modify_enchantment_level",
+        "enchantment": "minecraft:fortune",
+        "modifier": {
+            "operation": "add_base_early",
+            "value": 1
+        }
+    },
+    "name": "Cat Grace",
+    "description": "You act with grace and carefulness. You always have +1 tier of Fortune."
+}

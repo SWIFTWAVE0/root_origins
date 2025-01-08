@@ -1,0 +1,17 @@
+{
+    "name": "Launch!",
+    "description": "You are able to be launched into the air in order to start flying!",
+    "type": "origins:launch",
+    "cooldown": 400,
+    "speed": 2,
+    "hud_render": {
+        "should_render": true,
+        "sprite_location": "origins:textures/gui/resource_bar.png",
+        "bar_index": 4
+    },
+    "sound": "minecraft:entity.parrot.fly",
+    "key": {
+        "key": "key.origins.primary_active",
+        "continuous": true
+    }
+}

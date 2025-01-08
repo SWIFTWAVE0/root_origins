@@ -1,0 +1,13 @@
+{
+    "name": "Jump Boost",
+    "description": "You can jump higher than others.",
+    "type": "origins:modify_jump",
+    "modifier": {
+        "value": 1,
+        "operation": "multiply_total"
+    },
+    "condition": {
+        "type": "origins:sneaking",
+        "inverted": true
+    }
+}

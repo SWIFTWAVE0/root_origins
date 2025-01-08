@@ -1,0 +1,16 @@
+{
+    "name": "Кролики",
+    "description": "",
+    "powers": [
+        "roots:rabbit_fall_hits",
+        "roots:rabbit_jump",
+        "origins:fall_immunity",
+        "origins:no_shield",
+        "origins:vegetarian"
+    ],
+    "icon": {
+        "item": "minecraft:lime_wool"
+    },
+    "order": 24,
+    "impact": 2
+}

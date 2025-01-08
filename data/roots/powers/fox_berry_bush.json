@@ -1,0 +1,19 @@
+{
+    "type": "origins:multiple",
+    "name": "Berry Good",
+    "description": "You don't take damage in berry bushes, and you can walk through them at full speed.",
+    "no_damage": {
+        "type": "origins:invulnerability",
+        "damage_condition": {
+            "type": "origins:name",
+            "name": "sweetBerryBush"
+        }
+    },
+    "phasing": {
+        "type": "origins:phasing",
+        "block_condition": {
+            "type": "origins:block",
+            "block": "minecraft:sweet_berry_bush"
+        }
+    }
+}

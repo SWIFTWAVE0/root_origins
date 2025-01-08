@@ -1,0 +1,16 @@
+{
+    "name": "Mouse",
+    "description": "Tiny, cute and cheeky creature :3",
+    "powers": [
+        "roots:crouch",
+        "roots:miner",
+        "roots:small",
+        "roots:trash_eater",
+        "roots:weak"
+    ],
+    "icon": {
+        "item": "minecraft:lime_wool"
+    },
+    "order": 23,
+    "impact": 2
+}

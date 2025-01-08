@@ -1,0 +1,19 @@
+{
+    "name": "Feathered arms",
+    "description": "Your arms have feathered extentions, allowing you to glide! Though you do it slower than expected...",
+    "type": "origins:multiple",
+    "key0": {
+        "type": "origins:elytra_flight",
+        "render_elytra": false
+    },
+    "key1": {
+        "condition": {
+            "type": "origins:fall_flying"
+        },
+        "type": "origins:modify_air_speed",
+        "modifier": {
+            "operation": "multiply_total",
+            "value": -0.5
+        }
+    }
+}

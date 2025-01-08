@@ -1,0 +1,19 @@
+{
+    "name": "Weak",
+    "description": "You deal 10% less damage.\nYou take 10% more damage.",
+    "type": "origins:multiple",
+    "key0": {
+        "type": "origins:modify_damage_taken",
+        "modifier": {
+            "operation": "multiply_base",
+            "value": 0.1
+        }
+    },
+    "key1": {
+        "type": "origins:modify_damage_dealt",
+        "modifier": {
+            "operation": "add_base_early",
+            "value": -0.1
+        }
+    }
+}

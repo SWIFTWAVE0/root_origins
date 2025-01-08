@@ -1,0 +1,16 @@
+{
+    "name": "Smaller",
+    "description": "Your small size dictates you max health...\n\n- Only 7 hearts\n",
+    "type": "origins:multiple",
+    "attribute": {
+        "type": "origins:attribute",
+        "modifiers": [
+            {
+                "attribute": "minecraft:generic.max_health",
+                "operation": "addition",
+                "value": -6
+            }
+        ],
+        "update_health": true
+    }
+}

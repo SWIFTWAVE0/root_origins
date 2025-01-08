@@ -1,0 +1,16 @@
+{
+    "name": "Коты",
+    "description": "Кошечки и котики - прекрасные строители и производственники. Будучи не самым конфликтным народом, у Маркисы всё ещё хватит духу показать коготки, дабы защитить своё!",
+    "powers": [
+        "roots:cat_luck_mining",
+        "roots:cat_fall_resistance",
+        "origins:scare_creepers",
+        "roots:cat_fire_vulnerability",
+        "origins:carnivore"
+    ],
+    "icon": {
+        "item": "minecraft:orange_wool"
+    },
+    "order": 21,
+    "impact": 2
+}

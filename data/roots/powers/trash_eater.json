@@ -1,0 +1,9 @@
+{
+    "name": "Trash Eater",
+    "description": "Can eat poisoned and unhealthy food without consequences. ",
+    "type": "origins:effect_immunity",
+    "effects": [
+        "minecraft:hunger",
+        "minecraft:poison"
+    ]
+}

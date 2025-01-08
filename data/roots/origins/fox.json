@@ -1,0 +1,17 @@
+{
+    "name": "Лисы",
+    "description": "Описания пока нет",
+    "powers": [
+        "roots:fox_instinct",
+        "roots:fox_sweet_berries",
+        "roots:fox_berry_bush",
+        "roots:fox_speed",
+        "roots:fox_giggle",
+        "origins:more_exhaustion"
+    ],
+    "icon": {
+        "item": "minecraft:lime_wool"
+    },
+    "order": 22,
+    "impact": 2
+}
