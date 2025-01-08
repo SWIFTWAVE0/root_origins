@@ -2,7 +2,7 @@
     "name": "Jump Boost",
     "description": "You can jump higher than others.",
     "type": "origins:multiple",
-    "Power": {
+    "power": {
         "type": "origins:modify_jump",
         "modifier": {
             "value": 1,
@@ -17,12 +17,12 @@
                 },
                 {
                     "type": "origins:power_active",
-                    "power": "roots:*_Toggle"
+                    "power": "roots:*_toggle"
                 }
             ]
         }
     },
-    "Toggle": {
+    "toggle": {
         "type": "origins:toggle",
         "key": {
             "key": "key.origins.primary_active",

@@ -2,7 +2,7 @@
     "name": "Good Instnict",
     "description": "You have an ability to detect nearby creatures with your nature abilities. ",
     "type": "origins:multiple",
-    "Power": {
+    "power": {
         "type": "origins:entity_glow",
         "entity_condition": {
             "type": "origins:entity_group",
@@ -20,7 +20,7 @@
                     "type": "origins:actor_condition",
                     "condition": {
                         "type": "origins:power_active",
-                        "power": "roots:*_Toggle"
+                        "power": "roots:*_toggle"
                     }
                 }
             ]
@@ -30,7 +30,7 @@
         "green": 1,
         "blue": 1
     },
-    "Toggle": {
+    "toggle": {
         "type": "origins:toggle",
         "key": {
             "key": "key.origins.primary_active",
