@@ -2,11 +2,11 @@
     "name": "Squeaky",
     "description": "Your instincts makes you a little more loud...",
     "type": "origins:action_over_time",
-    "interval": 200,
+    "interval": 300,
     "entity_action": {
         "type": "origins:play_sound",
         "sound": "minecraft:entity.fox.ambient",
-        "volume": 2,
+        "volume": 5,
         "pitch": 1
     }
 }
