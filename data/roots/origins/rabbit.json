@@ -2,8 +2,8 @@
     "name": "Кролики",
     "description": "Описания пока нет",
     "powers": [
-        "roots:rabbit_fall_hits",
         "roots:rabbit_jump",
+        "roots:rabbit_fall_hits",
         "origins:fall_immunity",
         "origins:no_shield",
         "origins:vegetarian"

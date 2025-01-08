@@ -1,12 +1,12 @@
 {
     "name": "Falling Hits",
     "description": "You deal substantially more damage while falling.",
+    "type": "origins:modify_damage_dealt",
     "condition": {
         "type": "origins:fall_distance",
         "comparison": ">=",
         "compare_to": 1
     },
-    "type": "origins:modify_damage_dealt",
     "modifier": {
         "operation": "multiply_total",
         "value": 0.2
