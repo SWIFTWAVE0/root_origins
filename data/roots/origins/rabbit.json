@@ -1,6 +1,6 @@
 {
     "name": "Кролики",
-    "description": "",
+    "description": "Описания пока нет",
     "powers": [
         "roots:rabbit_fall_hits",
         "roots:rabbit_jump",

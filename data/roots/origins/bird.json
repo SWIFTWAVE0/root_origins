@@ -2,10 +2,10 @@
     "name": "Птицы",
     "description": "Династия отличается, в первую очередь, своей военной доктриной и фокусом в сторону экспансии. При всём том, что крылатые не лишены дипломатической модели ведения внешней политики, они привыкли доверять своему стратегическому преимуществу и вооружению больше, чем словам.",
     "powers": [
-        "roots:jump",
-        "roots:glide",
-        "roots:less_hp",
-        "roots:slow_swim"
+        "roots:bird_boost",
+        "roots:bird_glide",
+        "roots:bird_less_hp",
+        "roots:bird_slow_swim"
     ],
     "icon": {
         "item": "minecraft:blue_wool"

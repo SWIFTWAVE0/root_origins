@@ -1,10 +1,10 @@
 {
     "origins": [
+        "roots:bird",
         "roots:cat",
         "roots:fox",
-        "roots:rabbit",
-        "roots:bird",
-        "roots:mouse"
+        "roots:mouse",
+        "roots:rabbit"
     ],
     "enabled": true
 }

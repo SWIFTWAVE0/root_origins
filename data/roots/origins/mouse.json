@@ -1,12 +1,12 @@
 {
-    "name": "Mouse",
-    "description": "Tiny, cute and cheeky creature :3",
+    "name": "Мыши",
+    "description": "Описания пока нет",
     "powers": [
-        "roots:crouch",
-        "roots:miner",
-        "roots:small",
-        "roots:trash_eater",
-        "roots:weak"
+        "roots:mouse_fast_sneak",
+        "roots:mouse_resist_posion",
+        "roots:mouse_mining",
+        "roots:mouse_less_hp",
+        "roots:mouse_weak"
     ],
     "icon": {
         "item": "minecraft:lime_wool"
